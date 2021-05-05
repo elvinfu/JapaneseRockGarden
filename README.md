@@ -10,5 +10,7 @@ Shared on Github May 2021
 INSTRUCTIONS
 
 Press "D" to show Koko's (the Virtual Tour Guide) next dialogue line
+
 Click on the inventory items to drag and rearrange on the garden
+
 Click and hold to draw lines in the rock using the rake
