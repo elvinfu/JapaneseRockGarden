@@ -1,6 +1,6 @@
 # JapaneseRockGarden
 
-Build-your-own Japanese rock garden interactive simulation featuring the Karesensui gardens from Japan. Used as a visual aid with in-person presentation. Created using Unity Game Engine.
+Interactive build-your-own Japanese rock garden simulation featuring the Karesensui gardens from Japan. Used as a visual aid for an in-person presentation. Created using C# and Unity Game Engine.
 
 Press "D" to show Koko's (the Virtual Tour Guide) next dialogue line
 
