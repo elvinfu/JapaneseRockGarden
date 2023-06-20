@@ -1,6 +1,6 @@
 # JapaneseRockGarden
 
-Interactive build-your-own Japanese rock garden simulation featuring the Karesensui gardens from Japan. This project was created as a visual aid for an in-person presentation. It is developed using C# and the Unity Game Engine.
+Interactive build-your-own Japanese rock garden simulation featuring the Karesensui gardens from Japan. This project was created as a visual aid for an in-person presentation. It is developed using C# and Unity Game Engine.
 
 ![Zen Garden Logo](./Zen%20Garden.jpeg)
 
